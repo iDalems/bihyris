@@ -46,7 +46,7 @@ sudo certbot --nginx -d yourdomain.com
 ## 📁 Структура проекта
 
 ```
-voxlink/
+Bihyris/
 ├── backend/          # NestJS API сервер
 ├── frontend/         # React PWA приложение
 ├── infra/           # Docker, nginx, coturn конфиги
