@@ -1,9 +1,0 @@
-.env
-.vs/
-frontend/node_modules/
-backend/node_modules/
-*.log
-*.zip
-frontend/package-lock.json
-backend/package-lock.json
-dist/
